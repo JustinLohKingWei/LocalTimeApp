@@ -1,3 +1,3 @@
 # LocalTimeApp
 
-This project has been lost due to data corruption of my old machine, and will be redone once i have spare time
+An old project completed in August 2019. Credits to [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) 
